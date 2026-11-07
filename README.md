@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey, I'm Abhilash</h1>
+<h1 align="center">Hi there, I'm Abhilash Singh 👋</h1>
 
 ###
 
