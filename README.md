@@ -12,12 +12,11 @@
 
 ###
 
-<p align="left">CS student at VIT Vellore who likes building software that people can actually trust: retrieval systems that cite their sources, apps that ship end to end, and tools that keep personal data where it belongs.
+<p align="left">I build things that hold up under real use, not just in a demo: search that cites its sources instead of guessing, a gate that keeps personal data out of places it shouldn't be, and tools I stress-test by trying to break them myself.
 <br><br>
-Most of my work sits where GenAI, backend engineering and privacy meet. I've built RAG search over thousands of pages of legal documents, a gate that strips PII out of files before they reach an AI model, and a lab that attacks datasets to measure how much they leak.<br><br>
-I learn by building, measuring and iterating. I'm most at home with Python, FastAPI, React, PostgreSQL and Docker, and I enjoy hackathons where an idea turns into a working product over a weekend.
+No grand mission statement here, just a habit — build something, measure whether it actually works, fix what doesn't, repeat.
 <br><br>
-Currently going deeper into retrieval quality, privacy engineering and systems that hold up under real use.</p>
+Most of what I ship sits at the intersection of applied AI, backend systems and privacy engineering.</p>
 
 ###
 
