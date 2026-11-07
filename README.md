@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">CS (Information Security) student at VIT Vellore who likes building software that people can actually trust: retrieval systems that cite their sources, apps that ship end to end, and tools that keep personal data where it belongs.
+<p align="left">CS student at VIT Vellore who likes building software that people can actually trust: retrieval systems that cite their sources, apps that ship end to end, and tools that keep personal data where it belongs.
 <br><br>
 Most of my work sits where GenAI, backend engineering and privacy meet. I've built RAG search over thousands of pages of legal documents, a gate that strips PII out of files before they reach an AI model, and a lab that attacks datasets to measure how much they leak.<br><br>
 I learn by building, measuring and iterating. I'm most at home with Python, FastAPI, React, PostgreSQL and Docker, and I enjoy hackathons where an idea turns into a working product over a weekend.
