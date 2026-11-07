@@ -89,20 +89,5 @@ Currently going deeper into retrieval quality, privacy engineering and systems t
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-s99&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-s99&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-s99&radius=16&theme=react&area=true&hide_border=true" height="300" alt="activity graph" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/abhilash-s99/">LinkedIn</a> · <a href="https://leetcode.com/u/abhilash_s99/">LeetCode</a> · <a href="https://codeforces.com/profile/abhilashsingh2005">Codeforces</a> · <a href="mailto:work.abhis99@gmail.com">work.abhis99@gmail.com</a>
 </div>
