@@ -89,5 +89,18 @@ Currently going deeper into retrieval quality, privacy engineering and systems t
 ###
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-s99&theme=tokyonight" alt="profile details and contributions" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhi-s99&theme=tokyonight" height="170" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi-s99&theme=tokyonight" height="170" alt="most commit language" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/abhilash-s99/">LinkedIn</a> · <a href="https://leetcode.com/u/abhilash_s99/">LeetCode</a> · <a href="https://codeforces.com/profile/abhilashsingh2005">Codeforces</a> · <a href="mailto:work.abhis99@gmail.com">work.abhis99@gmail.com</a>
 </div>
