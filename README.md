@@ -1,30 +1,108 @@
-## hey, i'm abhilash 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
-I build at the intersection of **GenAI, the web and privacy**: retrieval systems that cite their sources, full-stack apps that actually ship, and tools that keep personal data where it belongs.
+###
 
-CS (Information Security) @ VIT Vellore.
+<h1 align="center">hey, I'm Abhilash</h1>
 
-### ⚡ stack
+###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+<h3 align="left">👨‍💻 About Me</h3>
 
-### 🔨 things i've built
+###
 
-- **LegalLens**: RAG search over Indian legal PDFs with page-level citations. Hybrid pgvector + full-text retrieval took Recall@5 from 0.62 to 0.84, under 80 ms median.
-- **Privacy Breach Lab**: simulates linkage, inference and deanonymization attacks on a dataset and measures how much leaks, before and after anonymization.
-- **ClearGate**: a privacy gate that finds and redacts PII in PDFs, Word and PowerPoint files before they ever reach an AI model.
-- **Campus Mart**: a campus marketplace with live bidding, shipped end-to-end in 3 weeks.
-- [**Ariadne**](https://github.com/abhi-s99/ariadne-agentic-code-search): agentic code search that runs on pure CPU under 35M params. Built with Team Aftermath for Samsung PRISM.
-- [**HTTP/3 vs HTTP/2**](https://github.com/abhi-s99/http3-vs-http2-quic-testbed): a network-namespace testbed that pits QUIC against TCP under emulated loss and latency.
+<p align="left">CS (Information Security) student at VIT Vellore who likes building software that people can actually trust: retrieval systems that cite their sources, apps that ship end to end, and tools that keep personal data where it belongs.
+<br><br>
+Most of my work sits where GenAI, backend engineering and privacy meet. I've built RAG search over thousands of pages of legal documents, a gate that strips PII out of files before they reach an AI model, and a lab that attacks datasets to measure how much they leak. On the side I like poking at the network layer, like benchmarking HTTP/3 against HTTP/2 under packet loss.
+<br><br>
+I learn by building, measuring and iterating. I'm most at home with Python, FastAPI, React, PostgreSQL and Docker, and I enjoy hackathons where an idea turns into a working product over a weekend.
+<br><br>
+Currently going deeper into retrieval quality, privacy engineering and systems that hold up under real use.</p>
 
-### 📫 find me
+###
 
-[LinkedIn](https://www.linkedin.com/in/abhilash-s99/) · [LeetCode](https://leetcode.com/u/abhilash_s99/) · [Codeforces](https://codeforces.com/profile/abhilashsingh2005) · [work.abhis99@gmail.com](mailto:work.abhis99@gmail.com)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
+###
+
+<h3 align="left">🛠 Languages and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abhi-s99&locale=en&mode=weekly&theme=cobalt&hide_border=true&border_radius=5" height="220" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-s99&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-s99&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-s99&radius=16&theme=react&area=true&hide_border=true" height="300" alt="activity graph" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhilash-s99/">LinkedIn</a> · <a href="https://leetcode.com/u/abhilash_s99/">LeetCode</a> · <a href="https://codeforces.com/profile/abhilashsingh2005">Codeforces</a> · <a href="mailto:work.abhis99@gmail.com">work.abhis99@gmail.com</a>
+</div>
